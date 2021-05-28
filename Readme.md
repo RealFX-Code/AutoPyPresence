@@ -1,4 +1,4 @@
-***AutoPyPresence***
+****AutoPyPresence****
 
 this app will allow you to make your own two-liner
 discord status instead of whatever you're playing from before.
