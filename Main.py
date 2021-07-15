@@ -1,3 +1,6 @@
+# Please don't open me, i need administrator permissions!
+# Open-Me.exe just opens me as administrator!
+
 from pypresence import Presence
 import time
 import json
